@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate frontend developer from Germanny</h3>
 
-- 🔭 I’m currently working on **a votting**
+- 🔭 I’m currently working on a voting website for a singer contest at scool.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
