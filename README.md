@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a voting website for a singer contest at scool.
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
